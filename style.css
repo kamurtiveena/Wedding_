@@ -61,7 +61,7 @@ nav{
     display: flex;
     height: 88%;
     flex-direction: column;
-    background-image: url('images/background.jpg');
+    background-image: url('background.jpg');
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
