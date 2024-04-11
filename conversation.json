@@ -1,0 +1,108 @@
+[
+  {
+    "id": 0,
+    "message": [
+      "Hey!!!! 💕",
+      "We, <b>Sai Kumar</b>  and <b>Divyasri</b>  are getting married. 💍",
+      "And we want you to be a part of this celebration as we take the next step together...🙌"
+    ],
+    "buttons": [
+      {
+        "text": "🗓️ When is the Wedding?",
+        "next": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "message": ["<b>Save the Date</b> 📅"],
+    "image": [
+      "images/Invitation.jpg"
+    ],
+    "buttons": [
+      {
+        "text": "Want to see your pics 🤩",
+        "next": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "message": [
+      "it's on <b>December 17, 2023</b> 📅",
+      "Muhurtham: 3:40 AM (Early hrs. of Monday)",
+      "Don't forget to have Lunch on 17th afternoon 😎",
+      "We are so excited to see you there 🥳"
+    ],
+    "buttons": [
+      {
+        "text": "Where is it happening 🤔",
+        "next": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "message": [
+      "Venue: SMC Function Hall, ICICI Bank Backside, Kasibugga-Palasa.",
+      "Find Directions : <a href='https://maps.app.goo.gl/eFVQyuSTk2LWcwwRA' target='blank'>Click Here to goto Maps</a>"
+    ],
+    "buttons": [
+      {
+        "text": "Tell me more 😍",
+        "next": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": [
+      "images/Solo_Boy.jpg",
+      "images/Solo_Girl.jpg"
+    ],
+    "buttons": [
+      {
+        "text": "Show me more....!! 😉",
+        "next": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": [
+      "images/IMG_1.jpeg",
+      "images/IMG_2.jpg"
+    ],
+    "buttons": [
+      {
+        "text": "One more 🥹",
+        "next": 6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "message": [
+      "We together - Forever 💝"
+    ],
+    "image": [
+      "images/Combined.jpg"
+    ],
+    "buttons": [
+      {
+        "text": "Awesome.. I'll be there ❤️",
+        "next": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "message": [
+      "Fantastic! We can't wait to celebrate with you. See you on the big day! 🥳🥳🥳",
+      "Meanwhile, Don't miss to catch up on our Save the Date video 👇👇👇👇",
+      "<a href='https://youtu.be/dhe78VAFLuU?si=ivjWG3zJIQjfCafu' target='blank'>Save the Date - YouTube Video</a>",
+      "Designer - <a href='https://www.linkedin.com/in/upendra-thunuguntla/' target='blank'>Muralidhar Thunuguntla 😎</a> "
+    ]
+  }
+]
+
