@@ -1,11 +1,11 @@
 function onLoad() {
     // Call the function to block non-mobile devices on page load
-    blockNonMobileDevices();
+    // blockNonMobileDevices();
     setLastSeen();
 
     const chatContainer = document.getElementById('chatting');
     const buttonsContainer = document.getElementById('button-container');
-
+setTyping();
     fetch('/conversation.json')
         .then(response => response.json())
         .then(data => {
