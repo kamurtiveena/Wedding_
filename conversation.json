@@ -3,7 +3,7 @@
     "id": 0,
     "message": [
       "Hey!!!! 💕",
-      "We, <b>Sailesh </b>  and <b>Namrata</b>  are getting married. 💍",
+      "We, <b>Shailesh </b>  and <b>Namrata</b>  are getting married. 💍",
       "And we want you to be a part of this celebration as we take the next step together...🙌"
     ],
     "buttons": [
@@ -15,9 +15,9 @@
   },
   {
     "id": 1,
-    "message": ["<b>Save the Date</b> 📅"],
+    "message": ["<b>Save the Date</b> "],
     "image": [
-      "/Invitation.jpg"
+      "/Invitation.jpeg"
     ],
     "buttons": [
       {
@@ -29,9 +29,9 @@
   {
     "id": 2,
     "message": [
-      "it's on <b>December 17, 2023</b> 📅",
-      "Muhurtham: 3:40 AM (Early hrs. of Monday)",
-      "Don't forget to have Lunch on 17th afternoon 😎",
+      "it's on <b>April 28, 2024</b>",
+      "Muhurtham: 12:24 PM (Mid hrs. of SUNDAY)",
+      "Don't forget to have Lunch on 28th afternoon 😎",
       "We are so excited to see you there 🥳"
     ],
     "buttons": [
@@ -44,8 +44,8 @@
   {
     "id": 3,
     "message": [
-      "Venue: SMC Function Hall, ICICI Bank Backside, Kasibugga-Palasa.",
-      "Find Directions : <a href='https://maps.app.goo.gl/eFVQyuSTk2LWcwwRA' target='blank'>Click Here to goto Maps</a>"
+      "Venue: Padmavati Villas, Opp. to Unique Town, Near Poshamma Temple, Old Vidi Gharkul, Solapur.",
+      "Find Directions : <a href='https://maps.app.goo.gl/sbctdWSH5BPVpxTR9' target='blank'>Click Here to goto Maps</a>"
     ],
     "buttons": [
       {
@@ -100,9 +100,10 @@
     "message": [
       "Fantastic! We can't wait to celebrate with you. See you on the big day! 🥳🥳🥳",
       "Meanwhile, Don't miss to catch up on our Save the Date video 👇👇👇👇",
-      "<a href='https://youtu.be/dhe78VAFLuU?si=ivjWG3zJIQjfCafu' target='blank'>Save the Date - YouTube Video</a>",
-      "Designer - <a href='https://www.linkedin.com/in/upendra-thunuguntla/' target='blank'>Muralidhar Thunuguntla 😎</a> "
-    ]
+      "<a href='https://youtube.com/shorts/9sewJOAJaBc?feature=share' target='blank'>Save the Date - YouTube Video</a>",
+      "Designer - <a href='https://www.linkedin.com/in/vstackveena/' target='blank'>Veena Kamurti 😎</a> "
+    ],
+    
   }
 ]
 
