@@ -3,7 +3,7 @@
     "id": 0,
     "message": [
       "Hey!!!! 💕",
-      "We, <b>Sai Kumar</b>  and <b>Divyasri</b>  are getting married. 💍",
+      "We, <b>Sailesh </b>  and <b>Namrata</b>  are getting married. 💍",
       "And we want you to be a part of this celebration as we take the next step together...🙌"
     ],
     "buttons": [
@@ -17,7 +17,7 @@
     "id": 1,
     "message": ["<b>Save the Date</b> 📅"],
     "image": [
-      "images/Invitation.jpg"
+      "/Invitation.jpg"
     ],
     "buttons": [
       {
@@ -57,8 +57,8 @@
   {
     "id": 4,
     "image": [
-      "images/Solo_Boy.jpg",
-      "images/Solo_Girl.jpg"
+      "/Solo_Boy.jpg",
+      "/Solo_Girl.jpg"
     ],
     "buttons": [
       {
@@ -70,8 +70,8 @@
   {
     "id": 5,
     "image": [
-      "images/IMG_1.jpeg",
-      "images/IMG_2.jpg"
+      "/IMG_1.jpeg",
+      "/IMG_2.jpg"
     ],
     "buttons": [
       {
@@ -86,7 +86,7 @@
       "We together - Forever 💝"
     ],
     "image": [
-      "images/Combined.jpg"
+      "/Combined.jpg"
     ],
     "buttons": [
       {
