@@ -5,7 +5,7 @@ function onLoad() {
 
     const chatContainer = document.getElementById('chatting');
     const buttonsContainer = document.getElementById('button-container');
-setTyping();
+
     fetch('conversation.json')
         .then(response => response.json())
         .then(data => {
